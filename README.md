@@ -2,4 +2,4 @@
 markdown cheatsheet
 
 **bold** **
-_italic_ \_<word>\_
+_italic_ \_ word \_
