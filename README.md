@@ -69,4 +69,13 @@ Table:
 | row1 value1 | row1 value2 |
 | row2 value2 | row2 value2 |
 
+
+
+Collapsed Section
+
+<details>
+ <summary>This is summary</summary>
+ #### this is header of details
+ this is details in summary 
+</details>
   
