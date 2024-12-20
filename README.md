@@ -64,9 +64,9 @@ this is second line in paragraph
 
 Table:
 
-|Header1|Header2|
+| Header1 | Header2 |
 ----
-|row1 value1|row1 value2|
-|row2 value2|row2 value2|
+| row1 value1 | row1 value2 |
+| row2 value2 | row2 value2 |
 
   
