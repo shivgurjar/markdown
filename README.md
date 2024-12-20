@@ -75,7 +75,7 @@ Collapsed Section
 
 <details>
  <summary>This is summary</summary>
- #### this is header of details 
+ ### This is header of details 
  
  this is details in summary 
 </details>
