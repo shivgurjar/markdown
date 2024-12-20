@@ -26,3 +26,13 @@ reference image
 
 Blockquote 
 \> Quote here
+
+
+Lists -
+
+Unordered: put them with \*
+* item1
+* item2
+* item3
+
+  
